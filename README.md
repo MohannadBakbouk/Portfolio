@@ -5,15 +5,21 @@
 
 ![Group 1](https://user-images.githubusercontent.com/71793823/113487842-119d7f00-94c3-11eb-91a9-331cce94f59e.png)
 
+[![Github
+](https://user-images.githubusercontent.com/71793823/113492325-45869d80-94df-11eb-908f-74aea89cfc94.png)
+](https://github.com/MohannadBakbouk/DynamicCell)
+
+
 # Talent Platform
 The biggest Talents Provider Mobile App in KSA and GCC , Thousands of Talents in one platform
 Within few minutes with you can register, make a reservation, and pay safely
 
 ![TP](https://user-images.githubusercontent.com/71793823/113488307-eb2d1300-94c5-11eb-84bd-3efdaf332e70.png)
 
+
 [![AppleStore
 ](https://user-images.githubusercontent.com/71793823/113491886-ae204b00-94dc-11eb-834e-ec4390a22555.png)
-](https://apps.apple.com/us/app/t-platform/id1556315686)
+](https://apps.apple.com/us/app/tpsp/id1554375999)
 
 
 # Talent Platform Suppliers
@@ -25,6 +31,9 @@ In a few minutes, you can add offers, add service reach clients, show requests h
 ![TPS](https://user-images.githubusercontent.com/71793823/113488789-d56d1d00-94c8-11eb-954c-a8ceb9f8f614.png)
 
 
+[![AppleStore
+](https://user-images.githubusercontent.com/71793823/113491886-ae204b00-94dc-11eb-834e-ec4390a22555.png)
+](https://apps.apple.com/us/app/t-platform/id1556315686)
 
 # Merkato
 
