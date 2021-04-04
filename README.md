@@ -36,9 +36,23 @@ In a few minutes, you can add offers, add service reach clients, show requests h
 ](https://apps.apple.com/us/app/t-platform/id1556315686)
 
 # Merkato
+Have fun shopping at Merkatoo! You can find all brands at greatest prices! Great variety of houseware, toys, makeup, cosmetics, stationery, party supplies and home decor. you'll find literally everything!.
+
+
+[![AppleStore
+](https://user-images.githubusercontent.com/71793823/113491886-ae204b00-94dc-11eb-834e-ec4390a22555.png)
+](https://apps.apple.com/us/app/id1525123131)
+
 
 
 # Joy
+This is the first application of its kind in the Middle East as a purchasing guide that allows customers to view the places and activities in their current location and get the best offers, prices and services, which are guaranteed by us.
+
+![Joy](https://user-images.githubusercontent.com/71793823/113522214-6f0afc00-95a7-11eb-88d6-a4d83eb46363.png)
+
+[![AppleStore
+](https://user-images.githubusercontent.com/71793823/113491886-ae204b00-94dc-11eb-834e-ec4390a22555.png)
+](https://apps.apple.com/us/app/joy/id1497039340)
 
 
 
