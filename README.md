@@ -1,3 +1,15 @@
+# 3Now 
+* Integrate local storage realm database 
+* Implementing dynamic  localizing app on the fly using  Restful API
+* Crackdown and eliminating the memory leak
+* Fix bugs and maintain the app
+
+
+[![AppleStore
+](https://user-images.githubusercontent.com/71793823/113491886-ae204b00-94dc-11eb-834e-ec4390a22555.png)
+](https://apps.apple.com/gb/app/3now/id1524167394#?platform=iphone)
+
+
 # DynamicCell
 
 * Implementing a self-sizing `UICollectionViewCell` based on font size 
